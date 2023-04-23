@@ -8,13 +8,18 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">
 I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
-</h2> 
+</h2>
+
+## 😃 About Me
+- I was a part of ISRO Respond Project, in this project I worked on development of scalable framework for analyzing raster big data using Apache Spark and Geotrellis library. 
+- Currently working a project about crop analysis by mapping ground truth with raster data.
+- I will be interning at PayPal this summer!
 
 ## 🌱 I'm currently learning
 
-- Data Structures and Algorithms
-- Machine Learning 
-- Object Oriented Programming
+- Deep Learning
+- Natural Language Processing 
+- Data Analytics
 
 ## 💼 Technical Skills
 <p align="left">
@@ -50,3 +55,5 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 <br>
 <br>
 - 💬 For questions and feedback, [Jayneel Shah](mailto:jayneel.shah18@gmail.com?subject=[GitHub]%20Question%20/%20Feedback)
+- --
+[![](https://visitcount.itsvg.in/api?id=codersmiti&icon=0&color=0)](https://visitcount.itsvg.in)
