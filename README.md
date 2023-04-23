@@ -51,7 +51,7 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 <a href="https://www.linkedin.com/in/jayneel-m-shah/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686374-66e5e145-3e6d-4767-9f50-090df5eff3e1.png" alt="Jayneel Shah | LinkedIn"/></a>
 <a href="https://twitter.com/thejayneelshah"><img align="left" src="https://user-images.githubusercontent.com/80264736/170687128-2a240344-b608-4918-9ba9-e3a52638bc92.png" alt="Jayneel Shah | Twitter"/></a>
 <a href="https://jayneelshah18.medium.com/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170810371-56a6b064-cac6-4ebc-a1b6-aa33365762a1.png" alt="Jayneel Shah | Medium"/></a>
-<a href="https://www.instagram.com/_jayneel_2507/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686621-695fc620-4616-42fb-b6f2-e0aa684fac45.png" alt="Jayneel Shah | Instagram"/></a>
+<a href="https://www.instagram.com/thejayneelshah/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686621-695fc620-4616-42fb-b6f2-e0aa684fac45.png" alt="Jayneel Shah | Instagram"/></a>
 <br>
 <br>
 - 💬 For questions and feedback, [Jayneel Shah](mailto:jayneel.shah18@gmail.com?subject=[GitHub]%20Question%20/%20Feedback)
