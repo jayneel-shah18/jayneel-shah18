@@ -12,7 +12,7 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 
 ## 😃 About Me
 - I was a part of ISRO Respond Project, in this project I worked on development of scalable framework for analyzing raster big data using Apache Spark and Geotrellis library. 
-- Completed research papers about various domains of Geospatial Sciences and Machine Learning.
+- Completed research papers on various domains of Geospatial Sciences and Machine Learning.
 - Former Intern at PayPal.
 
 ## 🌱 I'm currently learning
