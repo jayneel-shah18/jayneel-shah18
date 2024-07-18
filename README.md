@@ -39,12 +39,6 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayneel-shah18)](https://github.com/jayneel-shah18)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayneel-shah18&layout=compact)](https://github.com/jayneel-shah18)
-
 
 ## 🤝 Connect with me:
 
