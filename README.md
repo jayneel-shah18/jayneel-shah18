@@ -11,9 +11,7 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 </h2>
 
 ## 😃 About Me
-- I was a part of ISRO Respond Project, in this project I worked on development of scalable framework for analyzing raster big data using Apache Spark and Geotrellis library. 
-- Completed research papers on various domains of Geospatial Sciences and Machine Learning.
-- Former Intern at PayPal.
+Graduate Student with practical experience in Python, SQL, Tableau, and data visualization, focused on analyzing platform metrics and improving data literacy. Skilled in collaborating within diverse teams and delivering actionable insights that drive business decisions. Strong background in identifying patterns, defining key performance indicators, and helping teams make data-informed decisions supporting leaders and product teams to understand usage trends.
 
 ## 🌱 I'm currently learning
 
