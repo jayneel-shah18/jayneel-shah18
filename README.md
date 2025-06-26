@@ -1,51 +1,62 @@
 <!---
-jayneel-shah18/jayneel-shah18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+jayneel-shah18/jayneel-shah18 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
+<!---
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80264736/170685085-b25a9293-7233-4675-9f2d-ec7a1de8cfaf.gif">
+  <img src="https://user-images.githubusercontent.com/80264736/170685085-b25a9293-7233-4675-9f2d-ec7a1de8cfaf.gif" width="400"/>
+</p>
+-->
+<h2 align="center">Hi, I am Jayneel Shah 👋</h2>
+
+<p align="center">
+  Graduate Student · Software Engineer · Data & AI Enthusiast · Open Source Contributor
 </p>
 
-<h2 align="center">
-I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
-</h2>
 
-## 😃 About Me
-Graduate Student with practical experience in Python, SQL, Tableau, and data visualization, focused on analyzing platform metrics and improving data literacy. Skilled in collaborating within diverse teams and delivering actionable insights that drive business decisions. Strong background in identifying patterns, defining key performance indicators, and helping teams make data-informed decisions supporting leaders and product teams to understand usage trends.
+## 📌 About Me
 
-## 🌱 I'm currently learning
+I am a Computer Science graduate student at NC State University with hands-on experience in software engineering, data analytics, machine learning, and geospatial systems. I enjoy working on meaningful projects that blend software engineering with research and data-driven decision-making.
 
-- Deep Learning
-- Natural Language Processing 
-- Data Analytics
+I have contributed to open-source projects like GRASS GIS, built AI-powered prototypes, and published research on crop yield analytics. I value clean code, reproducible results, and collaboration.
 
-## 💼 Technical Skills
+
+## 🔭 What I am Working On
+
+- Regression testing and scientific debugging in [GRASS](https://github.com/OSGeo/grass)
+- An AI-powered virtual wardrobe for personalized styling
+- Mastering DSA patterns for technical interviews
+
+
+## 💡 Core Skills
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </p>
 
-## IDEs 🧑‍💻
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ Tools & IDEs
 
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=green)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
+## 🌱 Learning Goals
 
-## 🤝 Connect with me:
+- Deep Learning & Transformer Architectures
+- Advanced Data Structures & Algorithms
+- AI for Human-Centered Design
 
-<a href="https://www.linkedin.com/in/jayneel-m-shah/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686374-66e5e145-3e6d-4767-9f50-090df5eff3e1.png" alt="Jayneel Shah | LinkedIn"/></a>
-<a href="https://twitter.com/thejayneelshah"><img align="left" src="https://user-images.githubusercontent.com/80264736/170687128-2a240344-b608-4918-9ba9-e3a52638bc92.png" alt="Jayneel Shah | Twitter"/></a>
-<a href="https://jayneelshah18.medium.com/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170810371-56a6b064-cac6-4ebc-a1b6-aa33365762a1.png" alt="Jayneel Shah | Medium"/></a>
-<a href="https://www.instagram.com/thejayneelshah/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686621-695fc620-4616-42fb-b6f2-e0aa684fac45.png" alt="Jayneel Shah | Instagram"/></a>
-<br>
-<br>
-- 💬 For questions and feedback, [Jayneel Shah](mailto:jayneel.shah18@gmail.com?subject=[GitHub]%20Question%20/%20Feedback)
-- --
-[![](https://visitcount.itsvg.in/api?id=codersmiti&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayneel-m-shah/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thejayneelshah)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://jayneelshah18.medium.com/)
+[![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:jayneel.shah18@gmail.com)
